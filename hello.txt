@@ -1,4 +1,3 @@
-hello tyust! hello git 3
 hello tyust! hello git
 hello tyust! hello git
 hello tyust! hello git
@@ -6,4 +5,4 @@ hello tyust! hello git
 hello tyust! hello git
 hello tyust! hello git
 hello tyust! hello git
-version3
+hello tyust! hello git hot-fix test
